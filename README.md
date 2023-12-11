@@ -1,11 +1,10 @@
 # Timetable of Salah
-![image](https://github.com/Md-Iar-Hossain/time_table_of_salah/assets/72465649/612360e8-c124-44e4-bc33-f2d643c58ccf)
+![Time table of salah ](https://github.com/Md-Iar-Hossain/time_table_of_salah/assets/72465649/75aeda3b-e80d-4c32-9a03-a6628dc12ea2)
 
- <b> Author: </b> Muhammad iar Hossain <br>
- <b> Technology used: </b> HTML5, CSS3 and Vanilla JS <br>
- ![image](https://github.com/Md-Iar-Hossain/time_table_of_salah/assets/72465649/c4df788a-1d99-472e-bec4-05ccf06de41e)
+ **Author:** Muhammad iar Hossain  
+ **Technology used:** HTML5, CSS3 and Vanilla JS  
 
- Features:  <br>
-  => <i> Show current date and time of user </i> <br>
-  => <i> The User can set any prayer time, also saved in the browser local storage. </i> <br>
+**Features:**  
+  => *Show current date and time of user*  
+  => *The User can set any prayer time, also saved in the browser's local storage.*  
   Here is the <a href="https://md-iar-hossain.github.io/time_table_of_salah/"> live Preview link </a>
